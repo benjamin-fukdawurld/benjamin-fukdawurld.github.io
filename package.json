@@ -1,0 +1,23 @@
+{
+    "name": "benjamin-fukdawurld.github.io",
+    "version": "1.0.0",
+    "description": "ben's portfolio",
+    "main": "index.js",
+    "scripts": {
+        "test": "npm run test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/benjamin-fukdawurld/benjamin-fukdawurld.github.io.git"
+    },
+    "keywords": [
+        "portfolio",
+        "cv"
+    ],
+    "author": "benjamin-fukdawurld",
+    "license": "GPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/benjamin-fukdawurld/benjamin-fukdawurld.github.io/issues"
+    },
+    "homepage": "https://github.com/benjamin-fukdawurld/benjamin-fukdawurld.github.io#readme"
+}
